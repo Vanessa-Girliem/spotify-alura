@@ -100,7 +100,7 @@
        <h3>🚀 Obrigada pela atenção!</h3>
       <img src="./src/assets/results/minha foto.jpg" width="180px" alt="Estudante de Front-End">
       <p>Caso queira entrar em contato para me dar dicas, ou até mesmo para compartilhar ideias e conhecimentos, fique a vontade :)</p>
-      <p>Minhas redes: </p>
+      <p>→ Minhas redes: </p>
       <button>
       <a href="https://www.linkedin.com/in/vanessa-leite-22a28a2b1" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
         </button>
