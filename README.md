@@ -16,16 +16,16 @@
   <h3>🛠️ Linguagens e Tecnologias Utilizadas:</h3>
   <ul> 
     <li>
-      <strong>HTML e CSS:</strong> Foram utilizadas para desenvolver o esqueleto e o estilo da página.
+      <code>HTML e CSS:</code> Foram utilizadas para desenvolver o esqueleto e o estilo da página.
     </li>
     <p></p>
     <li>
-      <strong>JavaScript, JSON e Node.js:</strong> Foram utilizadas para aplicar lógica, tornando a página funcional através de uma API.
+      <code>JavaScript, JSON e Node.js:</code> Foram utilizadas para aplicar lógica, tornando a página funcional através de uma API.
       Ao buscar alguns artistas, com a utilização dessas duas linguagens, iríamos obter os resultados desejados. 
     </li>
     <p></p>
     <li>
-      <strong>React:</strong> uma biblioteca, que também é um framework, usado para criar interfaces de usuário (UI) em páginas da web.
+      <code>React:</code>Uma biblioteca, que também é um framework, usado para criar interfaces de usuário (UI) em páginas da web.
     </li>
     <p><strong>Obs.</strong> Também pode ser utilizado o <strong>Angular</strong>, considerado um dos frameworks mais completos para desenvolvimento web e de fácil manutenção.</p>
   </ul>
