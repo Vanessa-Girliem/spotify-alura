@@ -13,7 +13,7 @@
   <p>
     Este projeto foi realizado com a ajuda dos instrutores da <strong>Imersão Front-End - 2ª Edição</strong>, disponilizada pela Alura.
   </p>
-  <h3>🛠️ Linguagens e Tecnologias Utilizadas:</h3>
+  <h2>🛠️ Linguagens e Tecnologias Utilizadas:</h2>
   <ul> 
     <li>
       <code>HTML e CSS:</code> Foram utilizadas para desenvolver o esqueleto e o estilo da página.
@@ -30,7 +30,7 @@
     <p><strong>Obs.</strong> Também pode ser utilizado o <strong>Angular</strong>, considerado um dos frameworks mais completos para desenvolvimento web e de fácil manutenção.</p>
   </ul>
   <p></p>
-  <h3>📈 Processo de Desenvolvimento do Projeto: </h3>
+  <h2>📈 Processo de Desenvolvimento do Projeto: </h2>
   <section align="center">
     <div class="Aula 1">
      <p><strong>• Aula 1:</strong> Início, Busca e Biblioteca</p>
